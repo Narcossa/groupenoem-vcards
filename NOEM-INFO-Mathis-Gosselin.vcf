@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mathis Gosselin
+N:Gosselin;Mathis;;;
+TEL;TYPE=CELL,VOICE:+33634575806
+EMAIL;TYPE=INTERNET,WORK:mathis.gosselin@groupenoem.fr
+ORG:NOEM INFO
+END:VCARD

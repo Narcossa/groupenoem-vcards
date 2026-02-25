@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Bastien Gosselin
+N:Gosselin;Bastien;;;
+TEL;TYPE=CELL,VOICE:+33786877420
+EMAIL;TYPE=INTERNET,WORK:bastien.gosselin@groupenoem.fr
+ORG:NOEM
+URL:https://www.groupenoem.fr
+END:VCARD
